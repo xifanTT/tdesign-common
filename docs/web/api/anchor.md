@@ -43,6 +43,12 @@ spline: navigation
 
 {{ large }}
 
+### 自定义滚动效果
+
+关闭点击锚点链接后默认的js滚动动画，表现为普通 `<a>` 标签一致，可由用户自定义滚动效果
+
+{{ custom-scroll }}
+
 ### 自定义锚点高亮
 
 {{ customize-highlight }}
