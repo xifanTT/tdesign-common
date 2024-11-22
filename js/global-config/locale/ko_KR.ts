@@ -199,6 +199,8 @@ export default {
     swatchColorTitle: '시스템 기본 색상',
     recentColorTitle: '최근 사용한 색상',
     clearConfirmText: '최근에 사용한 색상을 지우시겠습니까?',
+    singleColor: '단색',
+    gradientColor: '그라데이션'
   },
   guide: {
     finishButtonProps: {

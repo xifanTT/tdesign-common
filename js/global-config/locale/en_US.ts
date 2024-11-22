@@ -200,6 +200,8 @@ export default {
     swatchColorTitle: 'System Default',
     recentColorTitle: 'Recently Used',
     clearConfirmText: 'Clear recently used colors?',
+    singleColor: 'Single',
+    gradientColor: 'Gradient'
   },
   guide: {
     finishButtonProps: {

@@ -199,6 +199,8 @@ export default {
     swatchColorTitle: '系统预设颜色',
     recentColorTitle: '最近使用颜色',
     clearConfirmText: '确定清空最近使用的颜色吗？',
+    singleColor: '单色',
+    gradientColor: '渐变'
   },
   guide: {
     finishButtonProps: {

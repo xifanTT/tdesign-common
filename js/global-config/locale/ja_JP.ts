@@ -199,6 +199,8 @@ export default {
     swatchColorTitle: 'システムプリセットカラー',
     recentColorTitle: '最近使用した色',
     clearConfirmText: '最近使用した色をクリアにするのは確実ですか？',
+    singleColor: '単色',
+    gradientColor: 'グラデ'
   },
   guide: {
     finishButtonProps: {

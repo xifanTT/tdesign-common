@@ -213,6 +213,8 @@ export default {
     swatchColorTitle: 'الألوان الافتراضية',
     recentColorTitle: 'مستخدم حديثا',
     clearConfirmText: 'هل تريد مسح الألوان المستخدمة مؤخرًا؟',
+    singleColor: 'موحد',
+    gradientColor: 'متدرج'
   },
   image: {
     errorText: 'غير قادر على التحميل',

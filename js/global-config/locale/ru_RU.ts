@@ -202,6 +202,8 @@ export default {
     recentColorTitle: 'Недавно использованные цвета',
     clearConfirmText:
       'Вы уверены, что хотите очистить недавно использованные цвета?',
+    singleColor: 'Сплошной',
+    gradientColor: 'Градиент'
   },
   guide: {
     finishButtonProps: {

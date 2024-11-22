@@ -207,6 +207,8 @@ export default {
     recentColorTitle: 'Colori usati di recente',
     clearConfirmText:
       'Sei sicuro di voler cancellare i colori usati di recente?',
+    singleColor: 'Singolo',
+    gradientColor: 'Gradiente'
   },
   guide: {
     finishButtonProps: {
